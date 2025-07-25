@@ -1,0 +1,1 @@
+# django_rest_API_Delete_system
